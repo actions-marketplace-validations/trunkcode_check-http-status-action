@@ -1,0 +1,4 @@
+# misc
+.idea
+.coverage
+.DS_Store
